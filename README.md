@@ -30,7 +30,7 @@ The script:
 Run the script directly:
 
 ```bash
-python train_randomised_td.py \
+python RL_RIC_TD.py \
   --init_psi psi0 \
   --lam1 1.0 \
   --lam2 1.0 \
